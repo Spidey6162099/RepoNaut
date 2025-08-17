@@ -1,4 +1,4 @@
-# Semantic Code Query & Summarization (Out-of-the-box)
+# RepoNaut:Semantic Code Query & Summarization
 
 Language-aware code search using Tree-sitter + FAISS with a React frontend,
 **CodeT5+ embeddings** for semantic retrieval, and **Gemini Pro** (optional) for natural language answers.
