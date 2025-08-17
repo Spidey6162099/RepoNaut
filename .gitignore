@@ -1,0 +1,40 @@
+# --- Python Backend ---
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated data files
+data/
+# Note: The 'data' directory holds the generated index and metadata.
+# It should not be committed to the repository.
+
+# --- React/Vite Frontend ---
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Secrets ---
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.example
+
+# --- IDE/Editor Folders ---
+.idea/
+.vscode/
