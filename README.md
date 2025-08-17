@@ -7,7 +7,7 @@ Language-aware code search using Tree-sitter + FAISS with a React frontend,
 - Python 3.11+
 - Node 18+
 - Git
-- (Optional) Docker
+<!-- - (Optional) Docker -->
 
 ## Backend (Local)
 ```bash
@@ -32,12 +32,12 @@ npm run dev
 ```
 Frontend: http://localhost:5173
 
-## Docker (Frontend + Backend)
+<!-- ## Docker (Frontend + Backend)
 ```bash
 docker compose up --build
 ```
 - API: http://localhost:8000
-- Web: http://localhost:5173
+- Web: http://localhost:5173 -->
 
 ## Using the App
 1) Paste a **GitHub URL or local path** and click **Ingest**.
